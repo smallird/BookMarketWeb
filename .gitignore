@@ -1,0 +1,14 @@
+
+# 개인 인증 정보
+src/main/webapp/WEB-INF/app.properties
+
+# Java 컴파일 결과
+*.class
+target/
+build/
+
+# 로그 파일
+*.log
+
+# Eclipse 임시 파일
+.metadata/
